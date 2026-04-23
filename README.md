@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in New York
 
-> Free BeamStation sample export with 240 rows and masked direct-contact fields.
+> Free BeamStation sample export with 234 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `697921` |
 | Location | New York |
 | Category | Food and Drink |
-| Full dataset size | 2,402 records |
-| Free sample size | 240 records (9.99%) |
-| Last export | 2026-04-16T23:58:12.288027+00:00 |
+| Full dataset size | 2,345 records |
+| Free sample size | 234 records (9.98%) |
+| Last export | 2026-04-23T18:13:07.451264+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-697921/releases/download/sample-latest/beamstation_697921_food_and_drink-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
